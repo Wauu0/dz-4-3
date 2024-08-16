@@ -1,0 +1,40 @@
+{
+    "characters": [
+        {
+            "name": "Iron man",
+            "age": 25,
+            "gender": "Male",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3HtqbY55NOKbUg-cqapafYybXkY-QzRAQeQ&s"
+        },
+        {
+            "name": "Spider man",
+            "age": 17,
+            "gender": "male",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ULBJJZ28o1g9qmTkbTyukYiKaYJMuBx4QQ&s"
+        },
+        {
+            "name": "Wanda",
+            "age": 35,
+            "gender": "female",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUAnOIGz089lTSlv97mT_ewQb--9qJDUR9ng&s  "
+        },
+        {
+            "name": "Capitan America",
+            "age": 30,
+            "gender": "male",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl69FAAVC7T_OeiQM6WZubf4oYFzmpNoT7LA&s"
+        },
+        {
+            "name": "Doctor Strengh",
+            "age": 30,
+            "gender": "male",
+            "photo": "https://pngfre.com/wp-content/uploads/doctor-strange-4-618x1024.png"
+        },
+        {
+            "name": "Thor",
+            "age": 30,
+            "gender": "male",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuYuDUuzt1d8occtzx-s9ELBLwiXfmmJM_xw&s"
+        }
+    ]
+}
